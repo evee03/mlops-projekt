@@ -2,8 +2,5 @@
     remote = lokalny
 ['remote "lokalny"']
     url = /tmp/dvc-store
-['remote "gdrive"']
-    url = gdrive://1kHo9z4v8dInLoBSWFGp35TBnMlM6fBf3?hl=PL
-    gdrive_use_service_account = false
 ['remote "zapasowy"']
     url = /tmp/dvc-store-2
