@@ -1,0 +1,5 @@
+outs:
+- md5: 7f4379a31370abd1ce4a1e4cf6f72aac
+  size: 43
+  hash: md5
+  path: drugie_dane.txt
