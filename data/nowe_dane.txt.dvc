@@ -1,0 +1,5 @@
+outs:
+- md5: 7a239ece9d47424003bc2768cf706af4
+  size: 34
+  hash: md5
+  path: nowe_dane.txt
